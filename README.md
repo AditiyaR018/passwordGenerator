@@ -2,12 +2,17 @@
 This is a mini project built using ReactJS, Tailwind CSS, HTML, CSS, and JavaScript.
 
 In this project, we explored several important React hooks such as:
-->useState
-->usecallback
-->useRef
-->useEffect
-----------------------------------------------------------------------------------------------------------
+
+useState
+
+useEffect
+
+useRef
+
+useCallback
+
 These hooks work together to manage state, optimize performance, and handle side effects efficiently.
+---------------------------------------------------------------------------------------------------------
 ✨ Features
 ✅ Set custom password length
 
